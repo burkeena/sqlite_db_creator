@@ -1,6 +1,4 @@
 import sqlite3
-from sqlite3 import Error 
-import sys
 import os
 import glob
 
